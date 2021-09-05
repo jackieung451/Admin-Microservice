@@ -9,6 +9,7 @@ import ImageEight from "../images/img83.jpg";
 import ImageNine from "../images/img82.jpg";
 import styled from "styled-components";
 
+// use the sliderdatwo
 export const SliderData = [
   {
     // title: "High Quality Furniture",
